@@ -10,7 +10,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <main.class>uy.edu.ort.arq-real-time.collection.tier.CollectionServiceWebSocketClient</main.class>
+        <main.class>uy.edu.ort.arqrealtime.collection.tier.CollectionServiceWebSocketClient</main.class>
     </properties>
     <dependencies>
         <dependency>
@@ -37,8 +37,6 @@
     <build>
         <defaultGoal>install</defaultGoal>
         <sourceDirectory>src/main/java</sourceDirectory>
-        <testSourceDirectory>src/test/java</testSourceDirectory>
-
         <plugins>
 
             <!-- the Maven compiler plugin will compile Java source files -->

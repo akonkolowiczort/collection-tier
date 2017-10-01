@@ -11,3 +11,9 @@ target/
 # random junk files
 .DS_STORE
 
+# log database 
+state/
+
+# reduced-pom
+dependency-reduced-pom.xml
+
