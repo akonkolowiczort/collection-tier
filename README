@@ -1,1 +1,5 @@
 This is a simplified version of the project located in https://github.com/apsaltis/StreamingData-Book-Examples/tree/master/Chapter9/collection-service
+
+
+To use console producer: `java -jar collection-tier-0.0.1.jar`
+To use kafka producer: `java -jar collection-tier-0.0.1.jar kafka`
